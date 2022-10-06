@@ -68,7 +68,8 @@ module.exports = {
   resolve: {
     // This will only alias the exact import "react-native"
     alias: {
-      'react-native$': 'react-native-web'
+      'react-native$': 'react-native-web',
+      'react-native-maps': 'react-native-web-maps'
     },
     // If you're working on a multi-platform React Native app, web-specific
     // module implementations should be written in files using the extension
