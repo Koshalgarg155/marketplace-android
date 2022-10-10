@@ -1,4 +1,4 @@
-# Example: Install App Center CLI
-npm install
-npx react-native start
-npx react-native run-android
+# # Example: Install App Center CLI
+# npm install
+# npx react-native start
+# npx react-native run-android
